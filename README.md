@@ -2,6 +2,11 @@
 
 This repository will contain my C++ solutions of the collection of dynamic programming problems from _freeCodeCamp_ video **Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges** with _Alvin Zablan_ from _CoderByte_.<br />
 
+## Methods
+
+- Memoization
+- Tabulation
+
 ## Problems
 
 - nth fibonacci number
